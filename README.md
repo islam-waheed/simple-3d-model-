@@ -1,4 +1,5 @@
-# simple-3d-model-using-C-
+# simple-3d-model
+using C#
 
 -![image](https://user-images.githubusercontent.com/83949402/117648208-3b1a8c00-b18e-11eb-9da8-0e6687c0374d.png)
 
